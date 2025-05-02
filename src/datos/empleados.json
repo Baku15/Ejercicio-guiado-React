@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "cargo": "Desarrollador",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Ana",
+      "apellido": "Gómez",
+      "cargo": "Diseñadora",
+      "activo": false
+    }
+
+    ,
+    {
+      "id": 3,
+      "nombre": "Victoria",
+      "apellido": "Peñaranda",
+      "cargo": "Enfermera",
+      "activo": true
+    }
+
+    ,
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "apellido": "Paredes",
+      "cargo": "Arquietecto",
+      "activo": false
+    }
+
+    ,
+    {
+      "id": 5,
+      "nombre": "Freddy",
+      "apellido": "Chura",
+      "cargo": "Ingeniero",
+      "activo": true
+    }
+
+    ,
+    {
+      "id": 6,
+      "nombre": "Jhiovana",
+      "apellido": "Cardenas",
+      "cargo": "Ingeniera",
+      "activo": true
+    }
+
+    ,
+    {
+      "id": 7,
+      "nombre": "Grace",
+      "apellido": "Rojas",
+      "cargo": "Abogada",
+      "activo": false
+    }
+  
+]
+  
